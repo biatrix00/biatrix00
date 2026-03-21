@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Tharjun 👋</h1>
 
 <p align="center">
-  <b>CS Undergrad · Python Developer · AI & Scraping Systems</b><br/>
-  Building real-world data pipelines and LLM-powered tools · Bengaluru, India
+  <b>CS Undergrad · Python Developer · AI & Multi-Agent Systems  </b><br/>
+  Building real-world data pipelines, LLM-powered tools, and agent architectures · Bengaluru, India
 </p>
 
 ---
@@ -18,10 +18,13 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [RealityPatch](https://github.com/biatrix00/RealityPatch) | Multi-agent AI fact-checking system — claim parsing, live web search, bias analysis, media manipulation detection, confidence verdict | Python · Gemini · Serper · Streamlit |
 | [Vizzy](https://github.com/biatrix00/vizzy) | Telegram bot for VTU students — circulars, AI Q&A, exam results | Python · Gemini · SQLite |
-| [MotivAgent](https://github.com/biatrix00/motivagent) | Multi-agent AI productivity system with Planner/Executor/Memory | Python · LLM APIs |
-
----
+| [MotivAgent](https://github.com/biatrix00/motivagent) | Multi-agent AI productivity system with Planner/Executor/Memory agents | Python · LLM APIs |
+| [Agriconnect](https://github.com/biatrix00/Agriconnect) | Hackathon agriculture platform | TypeScript |
+```
 
 ### 🛠️ Tech Stack
 
