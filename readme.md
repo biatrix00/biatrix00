@@ -18,9 +18,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [TenderTrack](https://github.com/yourusername/tendertrack) | 4-stage pipeline scraping India's CPPP eProcure portal with LLM enrichment | Python · BS4 · OpenRouter · Pydantic |
-| [Vizzy](https://github.com/yourusername/vizzy) | Telegram bot for VTU students — circulars, AI Q&A, exam results | Python · Gemini · SQLite |
-| [MotivAgent](https://github.com/yourusername/motivagent) | Multi-agent AI productivity system with Planner/Executor/Memory | Python · LLM APIs |
+| [Vizzy](https://github.com/biatrix00/vizzy) | Telegram bot for VTU students — circulars, AI Q&A, exam results | Python · Gemini · SQLite |
+| [MotivAgent](https://github.com/biatrix00/motivagent) | Multi-agent AI productivity system with Planner/Executor/Memory | Python · LLM APIs |
 
 ---
 
